@@ -59,13 +59,14 @@ Additionally, we should check the market and stock for products that have made i
 </div>
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="margin-right: 10px;">
-    <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg" alt="Top 10 Product Sales in the Last 3 Months" width="300">
+  <figure style="margin-right: 20px;">
+    <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/raw/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg" alt="Top 10 Product Sales in the Last 3 Months" width="300">
     <figcaption style="text-align: center;">Figure 5: Top 10 Product Sales in the Last 3 Months</figcaption>
   </figure>
   <figure>
-    <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg" alt="Pareto Product in the Last 3 Months" width="300">
+    <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/raw/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg" alt="Pareto Product in the Last 3 Months" width="300">
     <figcaption style="text-align: center;">Figure 6: Pareto Product in the Last 3 Months</figcaption>
   </figure>
 </div>
+
 
