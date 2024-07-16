@@ -6,13 +6,13 @@ E-Commerce, also known as electronic commerce, involves the buying and selling o
 
 ## Exploration Questions
 In my exploratory data analysis, I will answer the following questions:
-1. How many orders has been delivered accross all our transaction?
+1. How many orders has been delivered accross all our transaction? How is about our review performance?
 2. what is our sales summary? has there been significantly growth months over months?
 3. Which product are in our top 10 sales?
 4. Where are our product sold the most?
 5. Who are our top 10 customers?
 6. Can you segment our customers?
 
-# How many orders has been delivered accross all our transaction?
+# How many orders has been delivered accross all our transaction? How is about our review performance?
 
-The given pie chart below delitenates the percentage of our order status with 97.8% of 112,650 orders has been delivered. Furthermore, there are only 461 orders has been canceled which indicates how well our transaction process is
+The given pie chart below delitenates the percentage of our order status with 97.8% of 112,650 orders has been delivered. Furthermore, there are only 461 orders has been canceled which indicates how well our transaction process is. Additionally, with mean and median review scores of 4 and 5, respectively conclude that our performance showed good performance and it needs to be maintained or slightly improved in order to enhancing customer satisfaction.
