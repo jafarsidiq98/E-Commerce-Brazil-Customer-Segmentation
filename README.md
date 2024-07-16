@@ -8,10 +8,9 @@ E-Commerce, also known as electronic commerce, involves the buying and selling o
 In my exploratory data analysis, I will answer the following questions:
 1. How many orders has been delivered accross all our transaction? How is about our review performance?
 2. What is our sales summary? Has there been significantly growth months over months?
-3. Which product are in our top 10 sales?
-4. Where are our product sold the most?
-5. Who are our top 10 customers?
-6. Can you segment our customers?
+3. Which product are in our top sales?
+4. Where are our product sold the most? Who are our top customers?
+5. Can you segment our customers?
 
 # How many orders has been delivered accross all our transaction? How is about our review performance?
 
@@ -36,7 +35,7 @@ Based on combo chart below `(Figure 3)`, it can be seen that GMV month-over-mont
   <p>Figure 3: Sales Growth Month-Over-Month</p>
 </div>
 
-# Which product are in our top 10 sales?
+# Which product are in our top sales?
 
 The data below represent the top 10 products based on all historical transactions with bb50f2e236e5eea0100680137654686c as our best product `(Figure 4)`. However, some products have not had any sales in the last 3 months. Given the rapid growth of E-Commerce, focus only on the products that have made sales in the past 3 months.
 
@@ -57,5 +56,14 @@ Additionally, we should check the market and stock for products that have made i
   <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg" alt="Pareto Product in the Last 3 Months">
   <p>Figure 6: Pareto Product in the Last 3 Months</p>
 </div>
+
+# Where are our product sold the most? Who are our top customers?
+
+Most of our sales are in São Paulo, with 14.06% of our revenue coming from that area, followed by Rio de Janeiro and Belo Horizonte, which contribute 7.23% and 2.62% of our revenue, respectively `(Figure 7)`. On the other hand, Polo Petroquímico de Triunfo, Sabaudia, and Santo Antônio do Rio Abaixo have the lowest sales. Regarding customer insights, the customer with unique ID 0a0a92112bd4c708ca5fde585afaa872 is our best customer, alongside da122df9eeddfedc1dc1f5349a1a690c and 763c8b1c9c68a0229c42c9fc6f662b93 `(Figure 8)`.
+
+|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/4b79d3a53302016e6dcb66c74a88d8ee30966ab3/Picture/Top%2010%20City%20Sales.jpg)|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/4b79d3a53302016e6dcb66c74a88d8ee30966ab3/Picture/Top%2010%20Customers%20Sales.jpg)|
+|:-:|:-:|
+|Figure 7: Top 10 City Sales|Figure 8: Top 10 Customer Sales|
+
 
 
