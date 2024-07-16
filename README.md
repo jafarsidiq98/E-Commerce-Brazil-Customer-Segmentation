@@ -17,19 +17,28 @@ In my exploratory data analysis, I will answer the following questions:
 
 The given pie chart below delitenates the percentage of our order status with 97.8% of 112,650 orders has been delivered. Furthermore, there are only 461 orders has been canceled which indicates how well our transaction process is. Additionally, with mean and median review scores of 4 and 5, respectively conclude that our performance showed good performance and it needs to be maintained or slightly improved in order to enhancing customer satisfaction.
 
+
+`
+data_order_status = data_sales.groupby('order_status').agg({
+    'order_id':'nunique'
+}).reset_index().sort_values(by='order_id', ascending=False)
+fig = px.pie(data_order_status, values='order_id', names='order_status',
+             title='Total Order by Status')
+fig.show()
+`
 <div align="center">
   <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/3fc50b2129d73ffff36aaa492254a970fe77705e/Picture/Total%20Order%20by%20Status.jpg" alt="Total Order by Status">
   <p>Figure 1: Total Order by Status</p>
 </div>
 
+`
+df5.describe()
+`
 <div align="center">
   <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/ec772c2c1fa205fcf73a97e1a1f2df980c8211a1/Picture/Description%20Review%20Score.jpg" alt="Review Score Description">
   <p>Figure 2: Review Score Description</p>
 </div>
 
-```language
-// code block
-console.log('Hello, world!');
 
-`inline code`
+
 
