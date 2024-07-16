@@ -41,7 +41,7 @@ Based on combo chart below `(Figure 3)`, it can be seen that GMV month-over-mont
 The data below represent the top 10 products based on all historical transactions with bb50f2e236e5eea0100680137654686c as our best product `(Figure 4)`. However, some products have not had any sales in the last 3 months. Given the rapid growth of E-Commerce, focus only on the products that have made sales in the past 3 months.
 
 <div align="center">
-  <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/d0c9be44efdaed95a6bbeb18db78b50a3aa82c9d/Picture/Sales%20Growth%20Month%20over%20Month.jpg" alt="Top 10 Products by Historical Sales">
+  <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/a2d078e66c020d66f3e74a5a0d7e4a67133e0f75/Picture/Top%2010%20Product%20Pareto%20All%20Transaction.jpg" alt="Top 10 Products by Historical Sales">
   <p>Figure 4: Top 10 Products by Historical Sales</p>
 </div>
 
@@ -51,12 +51,21 @@ On the other hand, there are only 7 Pareto products that we need to monitor in t
 
 Additionally, we should check the market and stock for products that have made it into the top 10 historical sales but have not been in the top 10 for the last 3 months, even if they have had sales during this period. We need to determine whether the market has lost interest in these products. If so, and we still have stock of these products, it would be better to use them as giveaways or free products.
 
-<div align="Centre">
+<div align="center">
   <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg" alt="Top 10 Product Sales in the Last 3 Months">
   <p>Figure 5: Top 10 Product Sales in the Last 3 Months</p>
   <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg" alt="Pareto Product in the Last 3 Months">
   <p>Figure 6: Pareto Product in the Last 3 Months</p>
 </div>
 
-
+<div style="display: flex; justify-content: space-around;">
+  <figure style="margin-right: 10px;">
+    <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg" alt="Top 10 Product Sales in the Last 3 Months" width="300">
+    <figcaption style="text-align: center;">Figure 5: Top 10 Product Sales in the Last 3 Months</figcaption>
+  </figure>
+  <figure>
+    <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg" alt="Pareto Product in the Last 3 Months" width="300">
+    <figcaption style="text-align: center;">Figure 6: Pareto Product in the Last 3 Months</figcaption>
+  </figure>
+</div>
 
