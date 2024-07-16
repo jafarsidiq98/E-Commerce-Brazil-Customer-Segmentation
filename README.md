@@ -27,3 +27,9 @@ The given pie chart below delitenates the percentage of our order status with 97
   <p>Figure 2: Review Score Description</p>
 </div>
 
+```language
+// code block
+console.log('Hello, world!');
+
+`inline code`
+
