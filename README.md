@@ -58,6 +58,8 @@ Additionally, we should check the market and stock for products that have made i
   <p>Figure 6: Pareto Product in the Last 3 Months</p>
 </div>
 
-![Top 10 Product Sales in the Last 3 Months](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg "Top 10 Product Sales in the Last 3 Months") ![Pareto Product in the Last 3 Months]([image2.png](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg) "Pareto Product in the Last 3 Months")
+|![]("https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg")|![]("https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg")|
+|:-:|:-:|
+|Figure 5: Top 10 Product Sales in the Last 3 Months|Figure 6: Pareto Product in the Last 3 Months|
 
 
