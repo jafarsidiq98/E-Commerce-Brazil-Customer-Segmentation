@@ -51,9 +51,9 @@ On the other hand, there are only 7 Pareto products that we need to monitor in t
 Additionally, we should check the market and stock for products that have made it into the top 10 historical sales but have not been in the top 10 for the last 3 months, even if they have had sales during this period. We need to determine whether the market has lost interest in these products. If so, and we still have stock of these products, it would be better to use them as giveaways or free products.
 
 <div align="center">
-  <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg" alt="Top 10 Product Sales in the Last 3 Months">
+  <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Sales%20Last%203%20Months.jpg" alt="Top 10 Product Sales in the Last 3 Months" width="400" height="400">
   <p>Figure 5: Top 10 Product Sales in the Last 3 Months</p>
-  <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg" alt="Pareto Product in the Last 3 Months">
+  <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/021791c7f887dabd782254e98157a1f625130b4a/Picture/Top%2010%20Product%20Pareto%20Last%203%20Months.jpg" alt="Pareto Product in the Last 3 Months" width="400" height="400">
   <p>Figure 6: Pareto Product in the Last 3 Months</p>
 </div>
 
