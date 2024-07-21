@@ -65,5 +65,10 @@ Most of our sales are in São Paulo, with 14.06% of our revenue coming from that
 |:-:|:-:|
 |Figure 7: Top 10 City Sales|Figure 8: Top 10 Customer Sales|
 
+# Can you segment our customers?
 
+We segmented our customer based on their recency `(Figure 9)`, frequency `(Figure 10)`, and monetary `(Figure 11)`. As you can see in the `Figure 10`, most of them are one-time purchasers. Therefore, our clustering relies more on recency and monetary value. However, to increase our GMV, we will provide recommendations to engage customers for repeat transactions. Here are the results:
+
+## Customer Group 0
+Customer Group 0 consists of churned customers. These customers have not made a transaction for an average of 3-4 months. Furthermore, due to their low spending amount, we believe it is best to deprioritize this group. 
 
