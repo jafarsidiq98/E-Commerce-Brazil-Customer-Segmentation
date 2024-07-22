@@ -4,6 +4,9 @@ E-Commerce, also known as electronic commerce, involves the buying and selling o
 
 # Data and Exploration
 
+## Data
+* https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Exploration Questions
 In my exploratory data analysis, I will answer the following questions:
 1. How many orders has been delivered accross all our transaction? How is about our review performance?
