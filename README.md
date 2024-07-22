@@ -67,16 +67,23 @@ Most of our sales are in São Paulo, with 14.06% of our revenue coming from that
 
 # Can you segment our customers?
 
-We segmented our customer based on their recency `(Figure 9)`, frequency `(Figure 10)`, and monetary `(Figure 11)`. As you can see in the `Figure 10`, most of them are one-time purchasers. Therefore, our clustering relies more on recency and monetary value. However, to increase our GMV, We will provide recommendations to engage customers in repeat transactions. For instance, creating loyalty programs that offer benefits such as earning points after each transaction, which can be exchanged for rewards, or offering giveaways after multiple transactions. Here are the results:
+We segmented our customer based on their recency `(Figure 9)`, frequency `(Figure 10)`, and monetary `(Figure 11)`. Recency refers to the number of days since a customer made their most recent purchase, while frequency indicates the number of transactions within a given period, and monetary refers to the spending amount. As you can see in the `Figure 10`, most of them are one-time purchasers. Therefore, our clustering relies more on recency and monetary value. However, to increase our GMV, We will provide recommendations to engage customers in repeat transactions. For instance, creating loyalty programs that offer benefits such as earning points after each transaction, which can be exchanged for rewards, or offering giveaways after multiple transactions. Here are the results:
 
 ## Customer Group 0
-We classified Customer Group 0 as our churned customers. These customers have not made a transaction for an average of 3-4 months. Furthermore, due to their low spending amount, we believe it is best to deprioritize this group. 
+We classified Customer Group 0 as our churned customers. These customers have not made a transaction for an average of 6-7 months. Furthermore, due to their low spending amount, we believe it is best to deprioritize this group. 
 
 ## Customer Group 1
-We categorized Customer Group 1 as our potential customers. These customers have made their last purchase within the last month on average. Despite the recent activity, their average spending amount remains low. Therefore, we need to encourage repeat transactions by offering vouchers and discounts for the second transaction with a minimum purchase of $86.50, as $86.50 is our Q3 value, to increase our Average Order Value. Additionally, promoting our loyalty program to attract and engage customers, encouraging them to return for future purchases
+We categorized Customer Group 1 as our potential customers. These customers have made their last purchase within the last month on average. Despite the recent activity, their average spending amount remains low. Therefore, we need to encourage repeat transactions by offering vouchers and discounts for the second transaction with a minimum purchase of $86.50, as $86.50 is our Q3 value, to increase our Average Order Value. Additionally, promoting our loyalty program to attract and engage customers, encouraging them to return for future purchases.
 
 ## Customer Group 2
-We identified Customer Group 2 as our best customers. With low recency and high monetary, we have to engage our customers by implementing our customer loyalty program in order to encourage them for future purchases. Also, provide product recommendation based on their preference at the beginning of the page as well as their previous purchase to enhance the shopping experience and make it easier for customers. Additionally, Launce cross-selling or up-selling campaign to increase our average order value
+We identified Customer Group 2 as our best customers. With low recency and high spending, we have to engage our customers by implementing our customer loyalty program in order to encourage them for future purchases. Also, provide product recommendation based on their preference at the beginning of the page as well as their previous purchase to enhance the shopping experience and make it easier for customers. Additionally, Launce cross-selling or up-selling campaign to increase our average order value.
 
+## Customer Group 3
+We have designated Customer Group 3 as our high potential churn. These customers has high spending amount but high recency. Since they spent a lot in our platform, We think that it will be better if we tried to conduct survey or feedback to understand about the needs of customers who have spent significantly. This will help tailor the approach to address their specific requirements. Try to offer a discount and other benefits on their first purchase upon returning as well as promote our loyalty program to incentivize their return.
 
+## Customer Group 4
+We have designated Customer Group 4 as our at risk customers. These customers has medium recency but low monetary. Because of that, I think we should focus on conducting satisfaction surveys for our services to identify and address any issues that may be causing dissatisfaction. Additionally, we might consider promoting our loyalty program to encourage them to return for future purchases.
 
+|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/4b79d3a53302016e6dcb66c74a88d8ee30966ab3/Picture/Top%2010%20City%20Sales.jpg)|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/4b79d3a53302016e6dcb66c74a88d8ee30966ab3/Picture/Top%2010%20Customers%20Sales.jpg)|
+|:-:|:-:|
+|Figure 7: Top 10 City Sales|Figure 8: Top 10 Customer Sales|
