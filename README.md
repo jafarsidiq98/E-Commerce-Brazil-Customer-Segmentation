@@ -67,10 +67,16 @@ Most of our sales are in São Paulo, with 14.06% of our revenue coming from that
 
 # Can you segment our customers?
 
-We segmented our customer based on their recency `(Figure 9)`, frequency `(Figure 10)`, and monetary `(Figure 11)`. As you can see in the `Figure 10`, most of them are one-time purchasers. Therefore, our clustering relies more on recency and monetary value. However, to increase our GMV, we will provide recommendations to engage customers for repeat transactions. Here are the results:
+We segmented our customer based on their recency `(Figure 9)`, frequency `(Figure 10)`, and monetary `(Figure 11)`. As you can see in the `Figure 10`, most of them are one-time purchasers. Therefore, our clustering relies more on recency and monetary value. However, to increase our GMV, We will provide recommendations to engage customers in repeat transactions. For instance, creating loyalty programs that offer benefits such as earning points after each transaction, which can be exchanged for rewards, or offering giveaways after multiple transactions. Since E-Commerce does not allow that, we need to encourage them to make a transaction on our platform.. Here are the results:
 
 ## Customer Group 0
-Customer Group 0 is a churned customers. These customers have not made a transaction for an average of 3-4 months. Furthermore, due to their low spending amount, we believe it is best to deprioritize this group. 
+We classified Customer Group 0 as our churned customers. These customers have not made a transaction for an average of 3-4 months. Furthermore, due to their low spending amount, we believe it is best to deprioritize this group. 
 
 ## Customer Group 1
-We categorized Customer Group 1 as our potential customers. These customers have made their last purchase within the last month on average. Despite the recent activity, their average spending amount remains low. Therefore, we need to encourage repeat transactions by offering vouchers and discounts for the second transaction with a minimum purchase of $86.50, as $86.50 is our Q3 value, to increase our Average Order Value.
+We categorized Customer Group 1 as our potential customers. These customers have made their last purchase within the last month on average. Despite the recent activity, their average spending amount remains low. Therefore, we need to encourage repeat transactions by offering vouchers and discounts for the second transaction with a minimum purchase of $86.50, as $86.50 is our Q3 value, to increase our Average Order Value. Additionally, promoting our loyalty program to attract and engage customers, encouraging them to return for future purchases in our platform
+
+## Customer Group 2
+We identified Customer Group 2 as our best customers. With low recency and high monetary, we have to engage our customers to make a transaction on our platform by implementing our customer loyalty program in order to encourage them for future purchases. Also, provide product recommendation based on their preference at the beginning of the page as well as their previous purchase to enhance the shopping experience and make it easier for customers. Additionally, Launce cross-selling or up-selling campaign to increase our average order value
+
+
+
