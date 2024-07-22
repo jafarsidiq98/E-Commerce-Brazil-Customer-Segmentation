@@ -67,7 +67,13 @@ Most of our sales are in São Paulo, with 14.06% of our revenue coming from that
 
 # Can you segment our customers?
 
-We segmented our customer based on their recency `(Figure 9)`, frequency `(Figure 10)`, and monetary `(Figure 11)`. Recency refers to the number of days since a customer made their most recent purchase, while frequency indicates the number of transactions within a given period, and monetary refers to the spending amount. As you can see in the `Figure 10`, most of them are one-time purchasers. Therefore, our clustering relies more on recency and monetary value. However, to increase our GMV, We will provide recommendations to engage customers in repeat transactions. For instance, creating loyalty programs that offer benefits such as earning points after each transaction, which can be exchanged for rewards, or offering giveaways after multiple transactions. Here are the results:
+We segmented our customer based on their recency `(Figure 9)`, frequency `(Figure 10)`, and monetary `(Figure 11)`. Recency refers to the number of days since a customer made their most recent purchase, while frequency indicates the number of transactions within a given period, and monetary refers to the spending amount. 
+
+|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/fba480cb06964195bc6dfffbcc526a749c0e1533/Picture/Recency%20Boxplot.jpg)|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/fba480cb06964195bc6dfffbcc526a749c0e1533/Picture/Frequency%20Boxplot.jpg)|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/fba480cb06964195bc6dfffbcc526a749c0e1533/Picture/Monetary%20Boxplot.jpg)|
+|:-:|:-:|:-:|
+|Figure 9: Recency|Figure 10: Frequency|Figure 11: Monetary|
+
+As you can see in the `Figure 10`, most of them are one-time purchasers. Therefore, our clustering relies more on recency and monetary value. However, to increase our GMV, We will provide recommendations to engage customers in repeat transactions. For instance, creating loyalty programs that offer benefits such as earning points after each transaction, which can be exchanged for rewards, or offering giveaways after multiple transactions. Here are the results:
 
 ## Customer Group 0
 We classified Customer Group 0 as our churned customers. These customers have not made a transaction for an average of 6-7 months. Furthermore, due to their low spending amount, we believe it is best to deprioritize this group. 
@@ -84,6 +90,3 @@ We have designated Customer Group 3 as our high potential churn. These customers
 ## Customer Group 4
 We have designated Customer Group 4 as our at risk customers. These customers has medium recency but low monetary. Because of that, I think we should focus on conducting satisfaction surveys for our services to identify and address any issues that may be causing dissatisfaction. Additionally, we might consider promoting our loyalty program to encourage them to return for future purchases.
 
-|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/4b79d3a53302016e6dcb66c74a88d8ee30966ab3/Picture/Top%2010%20City%20Sales.jpg)|![](https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/4b79d3a53302016e6dcb66c74a88d8ee30966ab3/Picture/Top%2010%20Customers%20Sales.jpg)|
-|:-:|:-:|
-|Figure 7: Top 10 City Sales|Figure 8: Top 10 Customer Sales|
