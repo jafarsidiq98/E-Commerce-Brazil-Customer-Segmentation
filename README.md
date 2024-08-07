@@ -17,7 +17,7 @@ In my exploratory data analysis, I will answer the following questions:
 
 # How many orders has been delivered accross all our transaction? How is about our review performance?
 
-The given pie chart below `(Figure 1)` delitenates the percentage of our order status with 97.8% of 112,650 orders has been delivered. Furthermore, there are only 461 orders has been canceled which indicates how well our transaction process is. Additionally, with mean and median review scores of 4 and 5, respectively conclude that our performance showed good performance and it needs to be maintained or slightly improved in order to enhance customer satisfaction `(Figure 2)`.
+The given pie chart below `(Figure 1)` delinates the percentage of our order status with 97.8% of 112,650 orders has been delivered. Furthermore, there are only 461 orders has been canceled which indicates how well our transaction process is. Additionally, with mean and median review scores of 4 and 5, respectively conclude that our performance showed good performance and it needs to be maintained or slightly improved in order to enhance customer satisfaction `(Figure 2)`.
 
 <div align="center">
   <img src="https://github.com/jafarsidiq98/E-Commerce-Brazil-Customer-Segmentation/blob/3fc50b2129d73ffff36aaa492254a970fe77705e/Picture/Total%20Order%20by%20Status.jpg" alt="Total Order by Status">
